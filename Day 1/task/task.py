@@ -1,2 +1,2 @@
 # Write your code below this line 👇
-print("Hello word!")
+print("Hello word!\n" *3)
